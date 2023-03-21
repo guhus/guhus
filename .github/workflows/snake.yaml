@@ -1,7 +1,13 @@
-name: 'Generate snake'
+name: 'Generate Snake'
 on:
   pull_request:
-    paths: '*'
+    paths:
+      - '**'
+
+permissions:
+  contents: read
+  id-token: write
+  pull-requests: write
 
   # schedule: # execute every 12 hours
   #   - cron: "* */12 * * *"
