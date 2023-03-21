@@ -6,7 +6,7 @@
 ## 🔧 Technologies & Tools
 
 
-![](https://img.shields.io/badge/aws-services-orange?style=flat&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/hashicorp-terraform-blue?style=flat&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
