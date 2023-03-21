@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Code-Python-green?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Shell-Bash-black?style=flat&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/DB-MySQL-blue?style=flat&logo=mysql&logoColor=white)
 
 
 
