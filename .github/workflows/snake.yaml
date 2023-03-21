@@ -1,8 +1,9 @@
 name: 'Generate snake'
 on:
-pull_request:
-  paths:
-    - '/**'
+  pull_request:
+    types: [opened, reopened]
+    paths:
+      - '/**'
 
   # schedule: # execute every 12 hours
   #   - cron: "* */12 * * *"
@@ -25,4 +26,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
