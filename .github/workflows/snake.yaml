@@ -1,7 +1,6 @@
 name: 'Generate snake'
 on:
   pull_request:
-    types: [opened, reopened]
     paths: '*'
 
   # schedule: # execute every 12 hours
