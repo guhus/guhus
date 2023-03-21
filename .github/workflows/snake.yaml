@@ -1,15 +1,20 @@
-name: 'Generate snake'
+name: 'Generate Snake'
 on:
-pull_request:
-  paths:
-    - '/**'
+  pull_request:
+    paths:
+      - '**'
+
+permissions:
+  contents: read
+  id-token: write
+  pull-requests: write
 
   # schedule: # execute every 12 hours
   #   - cron: "* */12 * * *"
   #workflow_dispatch:
 jobs:
   build:
-    name: Jobs to update datas
+    name: Jobs to Generate Snake
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
@@ -24,4 +29,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          
