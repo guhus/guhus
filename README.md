@@ -1,8 +1,9 @@
-### Hi there 👋, my name is Gustavo and I´m a DevOps Engineer at Uala (fintech) and I do other duties to coordinate a DevOps Squad. 
+### Hi there 👋, my name is Gustavo and work as a DevOps Engineer at Uala (fintech) and I do other duties to coordinate a DevOps Squad. 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ## 🔧 Technologies & Tools
+
 
 <!--
 **guhus/guhus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
