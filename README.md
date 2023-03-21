@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Gustavo and work as a DevOps Engineer at Uala (fintech) and I do other duties to coordinate a DevOps Squad. 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-[!(https://github.com/guhus/guhus/blob/output/github-contribution-grid-snake.svg)]
+[![snake me](https://github.com/guhus/guhus/blob/output/github-contribution-grid-snake.svg)]
 
 ## 🔧 Technologies & Tools
 
