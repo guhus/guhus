@@ -18,7 +18,9 @@
 ![](https://img.shields.io/badge/Code-Python-green?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Shell-Bash-black?style=flat&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/DB-MySQL-blue?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Alert-PagerDuty-green?style=flat&logo=pagerduty&logoColor=white)
+![](https://img.shields.io/badge/Alert-SignalFX-green?style=flat&logo=splunk&logoColor=white)
+![](https://img.shields.io/badge/Metrics-Splunk-orange?style=flat&logo=splunk&logoColor=white)
 
 
 
