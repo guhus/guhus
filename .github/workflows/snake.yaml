@@ -2,8 +2,7 @@ name: 'Generate snake'
 on:
   pull_request:
     types: [opened, reopened]
-    paths:
-      - '/**'
+    paths: '*'
 
   # schedule: # execute every 12 hours
   #   - cron: "* */12 * * *"
