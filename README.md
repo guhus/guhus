@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-GCP-lightblue?style=flat&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/IAC-Terraform-blue?style=flat&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/Tools-TerraformCloud-blue?style=flat&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/CICD-GithubActions-black?style=flat&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=linux&logoColor=white)
