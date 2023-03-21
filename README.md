@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Gustavo.
 
-#### Currently working coordinating a DevOps Squad and as DevOps Engineer with Github/Actions, Terraform/Terragrunt to deploy microservices and serverless within the AWS ecosystem.
+#### Currently coordinating a DevOps Squad and as DevOps Engineer with Github/Actions, Terraform/Terragrunt to deploy microservices and serverless within the AWS ecosystem.
 #### ApiGateway,lambda,sns,sqs,dynamoDb,s3,ec2,vpc,eventbridge,cloudwatch and more.
 #### I love to code infrastructure, linux, build automation for CICD, do research and learn on daily basis.
 
