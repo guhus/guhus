@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Gustavo and I have more than +15 years of IT experience.
 
-### Currently working as DevOps Engineer with Github/Actions, Terraform/Terragrunt to deploy microservices and serverless within the AWS ecosystem.
-### ApiGateway,lambda,sns,sqs,dynamoDb,s3,ec2,vpc,eventbridge,cloudwatch and more.
-### I love to code infrastructure, linux, build automation for CICD, do research and learn on daily basis.
+#### Currently working as DevOps Engineer with Github/Actions, Terraform/Terragrunt to deploy microservices and serverless within the AWS ecosystem.
+#### ApiGateway,lambda,sns,sqs,dynamoDb,s3,ec2,vpc,eventbridge,cloudwatch and more.
+#### I love to code infrastructure, linux, build automation for CICD, do research and learn on daily basis.
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
