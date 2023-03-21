@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Gustavo and I have more than +15 years of IT experience.
+### Hi there 👋, my name is Gustavo.
 
 #### Currently working as DevOps Engineer with Github/Actions, Terraform/Terragrunt to deploy microservices and serverless within the AWS ecosystem.
 #### ApiGateway,lambda,sns,sqs,dynamoDb,s3,ec2,vpc,eventbridge,cloudwatch and more.
