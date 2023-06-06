@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Gustavo.
 
-#### Currently working within a DevOps Squad and as a DevOps Engineer working with Github/Actions, Terraform/Terragrunt to deploy microservices and serverless within the AWS ecosystem.
+#### Currently working within a DevOps Squad and as a DevOps Engineer. I use Github/Actions, Terraform/Terragrunt to deploy microservices and serverless within the AWS ecosystem.
 #### ApiGateway,lambda,sns,sqs,dynamoDb,s3,ec2,vpc,route53,ECS,alb,docker,eventbridge,cloudwatch,aurora,postgresql, and more.
-#### I love to code infrastructure, linux, build automation for CICD, do research and learn on daily basis.
+#### Digging k8s on EKS with helm and ArgoCD.
+#### I love to code infrastructure, Cloud computing, linux, build automation for CICD, do research and learn on daily basis.
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
