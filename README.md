@@ -1,10 +1,11 @@
-### Hi there 👋, my name is Gus.
+### Hi there 👋, my name is Gus but they call me Pipi
 
-#### Currently working as a Platform Engineer. I use Github/Actions, Terraform/Terragrunt,  to deploy microservices and serverless within the AWS ecosystem.
+#### Currently working as a Platform Engineer. I use Github/Actions, Terraform/Terragrunt, and I use to deploy microservices and serverless and many AWS services within the AWS ecosystem.
 #### Using ArgoCD to deploy microservices into AWS EKS on multiple environments with Kustomize & Helm.
-#### I build, maintain, ugprade and manage all the EKS lifecycle including scaling and monitoring
-#### Also the serverless stack that is always on my table: ApiGateway,lambda,sns,sqs,dynamoDb,s3,eventbridge,cloudwatch,aurora,postgresql,and more.
-#### I love to code infrastructure, Cloud computing, linux, build automation for CICD, do research and learn on daily basis.
+#### I build, maintain, ugprade and manage all the EKS lifecycle including scaling and monitoring.
+#### I have a security mindset, always.
+#### Also the serverless stack that is always on my table: ApiGateway,lambda,sns,sqs,dynamoDb,s3,eventbridge/cloudwatch,postgresql,and more.
+#### I like to code infrastructure, Kubernetes, Cloud computing, linux, build automation for CICD, do research and learn on daily basis.
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
