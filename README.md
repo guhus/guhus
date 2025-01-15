@@ -1,8 +1,9 @@
-### Hi there 👋, my name is Gustavo.
+### Hi there 👋, my name is Gus.
 
-#### Currently working within a DevOps Squad and as a DevOps Engineer. I use Github/Actions, Terraform/Terragrunt to deploy microservices and serverless within the AWS ecosystem.
-#### ApiGateway,lambda,sns,sqs,dynamoDb,s3,ec2,vpc,route53,ECS,alb,docker,eventbridge,cloudwatch,aurora,postgresql, and more.
-#### Digging k8s on EKS with helm and ArgoCD.
+#### Currently working as a Platform Engineer. I use Github/Actions, Terraform/Terragrunt,  to deploy microservices and serverless within the AWS ecosystem.
+#### Using ArgoCD to deploy microservices into AWS EKS on multiple environments with Kustomize & Helm.
+#### I build, maintain, ugprade and manage all the EKS lifecycle including scaling and monitoring
+#### Also the serverless stack that is always on my table: ApiGateway,lambda,sns,sqs,dynamoDb,s3,eventbridge,cloudwatch,aurora,postgresql,and more.
 #### I love to code infrastructure, Cloud computing, linux, build automation for CICD, do research and learn on daily basis.
 
 
