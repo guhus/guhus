@@ -1,9 +1,10 @@
 name: 'Generate Snake'
 on:
-  schedule:
+  workflow_dispatch:
+  #schedule:
       # every 6 hours
     #- cron: "0 */6 * * *"
-    - cron: '*/5 * * * *'
+    #- cron: '*/5 * * * *'
 
 permissions:
   contents: read
@@ -12,7 +13,7 @@ permissions:
 
   # schedule: # execute every 12 hours
   #   - cron: "* */12 * * *"
-  #workflow_dispatch:
+  
 jobs:
   build:
     name: Jobs to Generate Snake
